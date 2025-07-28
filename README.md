@@ -103,8 +103,8 @@ Turn boring feedback forms into **amazing 3D experiences**! This portal helps bu
 
 1. **📥 Get the code**
 ```bash
-git clone https://github.com/yourusername/3d-feedback-portal.git
-cd 3d-feedback-portal
+git clone https://github.com/Tillu6/Customer-Feedback-Portal.git
+cd Customer-Feedback-Portal
 ```
 
 2. **🔧 Setup Backend**
