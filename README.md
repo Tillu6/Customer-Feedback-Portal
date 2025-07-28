@@ -61,15 +61,17 @@ Turn boring feedback forms into **amazing 3D experiences**! This portal helps bu
 
 ### 🏠 **Beautiful Homepage**
 *Stunning hero section with data visualization background*
+<img width="946" height="375" alt="image" src="https://github.com/user-attachments/assets/fbd2d7c6-2f48-4644-8c77-75f40a7058bf" />
+
 
 ### 📊 **3D Dashboard Magic**
 *Watch your feedback data dance in 3D space*
+<img width="740" height="326" alt="image" src="https://github.com/user-attachments/assets/d87e256e-2213-4868-8f33-b129d9d20640" />
 
 ### 📝 **Smart Feedback Form**
 *Easy-to-use form with interactive star ratings*
+<img width="815" height="441" alt="image" src="https://github.com/user-attachments/assets/4b2ae36b-a808-46f0-b6a9-32c1643918af" />
 
-### 📈 **Live Statistics**
-*Real-time numbers that update as you watch*
 
 </div>
 
@@ -216,10 +218,10 @@ We ❤️ contributions! Here's how:
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/3d-feedback-portal?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/3d-feedback-portal?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/3d-feedback-portal)
-![GitHub license](https://img.shields.io/github/license/yourusername/3d-feedback-portal)
+![GitHub stars](https://img.shields.io/github/stars/Tillu6/Customer-Feedback-Portal?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Tillu6/Customer-Feedback-Portal?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Tillu6/Customer-Feedback-Portal)
+![GitHub license](https://img.shields.io/github/license/Tillu6/Customer-Feedback-Porta)
 
 </div>
 
@@ -265,9 +267,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Questions? Ideas? Just want to say hi? 👋**
 
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourusername-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
+[![Email](https://img.shields.io/badge/Email-psakethreddy97@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:psakethreddy97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saketh Poreddy-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saketh-poreddy-145a7315b/)
 
 **Made with ❤️ and lots of ☕**
 
