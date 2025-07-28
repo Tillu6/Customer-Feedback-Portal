@@ -105,9 +105,7 @@ const FeedbackPortal = () => {
       bar.position.set((index - 2) * 2, height / 2, 0);
       barGroup.add(bar);
 
-      // Add text label
-      const loader = new THREE.FontLoader();
-      // For simplicity, we'll use basic shapes instead of text
+      // Add a simple marker instead of text
       const labelGeometry = new THREE.SphereGeometry(0.1);
       const labelMaterial = new THREE.MeshBasicMaterial({ color: 0xffffff });
       const label = new THREE.Mesh(labelGeometry, labelMaterial);
