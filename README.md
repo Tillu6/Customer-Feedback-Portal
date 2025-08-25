@@ -1,4 +1,5 @@
 # 🌟 3D Customer Feedback Portal 🚀
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d55ed8a5-33ac-493b-9db0-5a4a21cdcbf2" />
 
 <div align="center">
 
